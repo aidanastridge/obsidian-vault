@@ -1,0 +1,17 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "file": "Global/Notes/Resources/Quotes.md",
+      "height": 400,
+      "id": "470ce22071329218",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -300,
+      "y": -280
+    }
+  ]
+}

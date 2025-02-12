@@ -1,0 +1,70 @@
+{
+  "edges": [
+    {
+      "fromNode": "445372fbae6d867c",
+      "fromSide": "right",
+      "id": "39b2fcb1918da0cf",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "ea1de098d1222ff7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ea1de098d1222ff7",
+      "fromSide": "right",
+      "id": "c0b9b31b3f1cd964",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "ea65c2de6baca8e6",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "file": "Global/Tasks/Resources/Khan Academy.md",
+      "height": 400,
+      "id": "445372fbae6d867c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -340,
+      "y": 640
+    },
+    {
+      "file": "Global/Tasks/Resources/codecademy.md",
+      "height": 400,
+      "id": "ea1de098d1222ff7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 120,
+      "y": 640
+    },
+    {
+      "file": "Global/Tasks/Resources/Github.md",
+      "height": 400,
+      "id": "ea65c2de6baca8e6",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 580,
+      "y": 640
+    },
+    {
+      "file": "Global/Tasks/Resources/Instagram.md",
+      "height": 400,
+      "id": "918db246caadd025",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -340,
+      "y": 180
+    }
+  ]
+}

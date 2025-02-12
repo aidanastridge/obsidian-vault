@@ -1,0 +1,72 @@
+{
+  "edges": [
+    {
+      "fromNode": "fdbbba780c55eebf",
+      "fromSide": "left",
+      "id": "b60ca8b87322267a",
+      "styleAttributes": {
+        "arrow": "circle-outline"
+      },
+      "toEnd": "none",
+      "toNode": "9c190a9abc879789",
+      "toSide": "right"
+    }
+  ],
+  "nodes": [
+    {
+      "file": "Global/Media/Resources/Books/Fictional Books.md",
+      "height": 400,
+      "id": "9c190a9abc879789",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -320,
+      "y": -720
+    },
+    {
+      "file": "Global/Media/Resources/Albums/Favourite Albums.md",
+      "height": 400,
+      "id": "1ae0798874dd7cd8",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -320,
+      "y": -1160
+    },
+    {
+      "file": "Global/Media/Resources/Movies/Favourite Movies.md",
+      "height": 400,
+      "id": "60604e9f02384dc6",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -320,
+      "y": -280
+    },
+    {
+      "file": "Global/Media/Resources/Video Games/Favourite Video Games.md",
+      "height": 400,
+      "id": "d2306a525d4a03e7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -320,
+      "y": 160
+    },
+    {
+      "file": "Global/Media/Resources/Books/Technical Books.md",
+      "height": 400,
+      "id": "fdbbba780c55eebf",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 120,
+      "y": -720
+    }
+  ]
+}

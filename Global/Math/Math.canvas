@@ -1,0 +1,18 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "file": "Global/Math/Calculus/Limit.md",
+      "height": 527,
+      "id": "70f263ad64be92f7",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "type": "file",
+      "width": 527,
+      "x": -1480,
+      "y": -740
+    }
+  ]
+}

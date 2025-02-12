@@ -1,0 +1,37 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "file": "Global/Obsidian/Resources/Plugin Development/Resources/For Plugin Developers.md",
+      "height": 400,
+      "id": "d2333e030c1f260a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 0,
+      "y": -40
+    },
+    {
+      "file": "Global/Obsidian/Resources/Theme Development/Resources/For Theme Designers.md",
+      "height": 400,
+      "id": "f0d1499172868e04",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 0,
+      "y": 400
+    },
+    {
+      "file": "Global/Obsidian/Resources/Developer Documentation.md",
+      "height": 400,
+      "id": "cbd3635147760302",
+      "type": "file",
+      "width": 400,
+      "x": 0,
+      "y": 840
+    }
+  ]
+}
