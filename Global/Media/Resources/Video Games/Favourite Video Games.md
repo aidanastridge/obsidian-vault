@@ -1,4 +1,5 @@
 Tags: #hobbies 
+Links: [[To Play]]
 
 Lumines - **Q Entertainment**
 Wipeout Pure - **Studio Liverpool**
@@ -16,7 +17,7 @@ Metal Gear Solid 2: Sons of Liberty - **Kojima Productions**
 Metal Gear Solid 3: Snake Eater - **Kojima Productions**
 Metal Gear Solid Peace Walker - **Kojima Productions**
 
-[[To Play]]
+
 
 
 

@@ -1,4 +1,5 @@
 Tags: #hobbies 
+Links: [[To Listen]]
 
 Good Kid MAAD City - **Kendrick Lamar**
 2012 - 2017 - **Against all Logic**
@@ -15,7 +16,7 @@ The Blueprint - **Jay-Z**
 Illmatic - **Nas**
 Tidal Memory Exo - **Iglooghost**
 
-**[[To Listen]]**
+
 
 
 
