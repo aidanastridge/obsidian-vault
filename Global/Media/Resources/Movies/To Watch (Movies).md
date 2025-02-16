@@ -17,10 +17,9 @@ tags:
 - [ ] Soundtrack to a Coup d'Etat
 - [ ] Breaking Dawn Part 1
 - [ ] Grand Theft Hamlet
-- [ ] I'm still here
 
 
-## Watched
+## 2024
 
 - [x] The Teacher’s Lounge
 	10
@@ -28,12 +27,8 @@ tags:
 	8
 - [x] Christmas Carol (George C. Scott) 
 	8
-- [x] M
-	10
 - [x] Kelly's heroes
 	8
-- [x] The Innocents (1961)
-	10
 - [x] Runway Train
 	8
 - [x] Oppenheimer
@@ -143,6 +138,14 @@ tags:
 	4
 - [x] Night of the Hunter
 	10
+
+
+## 2025
+
+- [x] The Innocents (1961)
+	10
+- [x] M
+	10
 - [x] My Argentine Heart
 	4
 - [x] Polar Opposites
@@ -152,12 +155,15 @@ tags:
 - [x] King Arthur (2004)
 	6
 - [x] The Perfect Setting
+	4
+- [x] Return to Office
+	6
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%

@@ -1,9 +1,12 @@
 Tags: #sql 
 
-[[TypeScript.canvas|TypeScript]]
-[[Javascript.canvas|Javascript]]
-[[Python.canvas|Python]]
-[[SQL.canvas|SQL]]
+- [[SQL.canvas|SQL]]
+- [[Python.canvas|Python]]
+- [[Javascript.canvas|Javascript]]
+- [[TypeScript.canvas|TypeScript]]
+
+
+
 
 
 

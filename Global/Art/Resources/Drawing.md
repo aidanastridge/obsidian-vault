@@ -1,7 +1,9 @@
 Tags: #hobbies 
 
-[[Art.canvas|Art]]
-[[Comic Arts Social Toronto]]
+Links:
+
+- [[Art.canvas|Art]]
+- [[Comic Arts Social Toronto]]
 
 
 

@@ -1,3 +1,3 @@
 Tags: #business
 
-[[Data Science.canvas|Data Science]]
+- [[Data Science.canvas|Data Science]]

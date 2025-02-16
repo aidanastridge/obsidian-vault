@@ -1,6 +1,7 @@
 Tags: #business 
 
-[[Data Visualization.canvas|Data Visualization]]
-[[Finance]]
-[[Management Science]]
-[[Decision Analysis]]
+- [[Finance]]
+- [[Decision Analysis]]
+- [[Data Visualization.canvas|Data Visualization]]
+- [[Management Science]]
+

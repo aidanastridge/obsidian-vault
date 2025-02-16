@@ -1,5 +1,8 @@
 Tags: #hobbies 
-Links: [[To Listen]]
+
+Links: 
+
+- [[To Listen]]
 
 Good Kid MAAD City - **Kendrick Lamar**
 2012 - 2017 - **Against all Logic**
