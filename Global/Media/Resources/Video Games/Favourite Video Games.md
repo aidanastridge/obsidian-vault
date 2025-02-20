@@ -18,6 +18,7 @@ God of War II - **Santa Monica Studios**
 Metal Gear Solid - **Kojima Productions**
 Metal Gear Solid 2: Sons of Liberty - **Kojima Productions**
 Metal Gear Solid 3: Snake Eater - **Kojima Productions**
+Metal Gear Solid 4: Guns of the Patriots - **Kojima Productions**
 Metal Gear Solid Peace Walker - **Kojima Productions**
 
 
