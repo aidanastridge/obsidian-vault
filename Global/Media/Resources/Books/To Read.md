@@ -1,8 +1,10 @@
 ---
+
 kanban-plugin: board
 tags:
   - hobbies
   - computers
+
 ---
 
 ## Fiction
@@ -15,7 +17,7 @@ tags:
 - [ ] Aeneid
 
 
-## Non-Fiction
+## Technical
 
 
 

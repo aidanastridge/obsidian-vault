@@ -1,17 +1,7 @@
 {
   "edges": [
     {
-      "fromNode": "fdbbba780c55eebf",
-      "fromSide": "left",
-      "id": "b60ca8b87322267a",
-      "styleAttributes": {
-        "arrow": "circle-outline"
-      },
-      "toEnd": "none",
-      "toNode": "9c190a9abc879789",
-      "toSide": "right"
-    },
-    {
+      "color": "5",
       "fromNode": "1e8eddcce7e255a5",
       "fromSide": "right",
       "id": "081659a7d0d8b26e",
@@ -20,20 +10,21 @@
       "toEnd": "none",
       "toNode": "60604e9f02384dc6",
       "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "9c190a9abc879789",
+      "fromSide": "right",
+      "id": "9ea54a115c03bb91",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "toEnd": "none",
+      "toNode": "fdbbba780c55eebf",
+      "toSide": "left"
     }
   ],
   "nodes": [
-    {
-      "file": "Global/Media/Resources/Books/Fictional Books.md",
-      "height": 400,
-      "id": "9c190a9abc879789",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -320,
-      "y": -720
-    },
     {
       "file": "Global/Media/Resources/Albums/Favourite Albums.md",
       "height": 400,
@@ -42,8 +33,19 @@
       },
       "type": "file",
       "width": 400,
-      "x": -320,
-      "y": -1160
+      "x": -616,
+      "y": -1360
+    },
+    {
+      "file": "Global/Media/Resources/Books/Favourite Fictional Books.md",
+      "height": 400,
+      "id": "9c190a9abc879789",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -412,
+      "y": -880
     },
     {
       "file": "Global/Media/Resources/Movies/Favourite Movies.md",
@@ -53,8 +55,8 @@
       },
       "type": "file",
       "width": 400,
-      "x": -320,
-      "y": -280
+      "x": -208,
+      "y": -400
     },
     {
       "file": "Global/Media/Resources/Video Games/Favourite Video Games.md",
@@ -64,19 +66,8 @@
       },
       "type": "file",
       "width": 400,
-      "x": -320,
-      "y": 160
-    },
-    {
-      "file": "Global/Media/Resources/Books/Technical Books.md",
-      "height": 400,
-      "id": "fdbbba780c55eebf",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 120,
-      "y": -720
+      "x": -4,
+      "y": 80
     },
     {
       "file": "Global/Media/Resources/TV Show/Favourite TV Shows.md",
@@ -86,8 +77,19 @@
       },
       "type": "file",
       "width": 400,
-      "x": -760,
-      "y": -280
+      "x": -820,
+      "y": -400
+    },
+    {
+      "file": "Global/Media/Resources/Books/Favourite Technical Books.md",
+      "height": 400,
+      "id": "fdbbba780c55eebf",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 200,
+      "y": -880
     }
   ]
 }
