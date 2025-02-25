@@ -3,28 +3,6 @@
   ],
   "nodes": [
     {
-      "file": "Global/Community/Resources/TorontoJS.md",
-      "height": 400,
-      "id": "4fc7332c0364533c",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -280,
-      "y": -840
-    },
-    {
-      "file": "Global/Community/Resources/Kaggle.md",
-      "height": 400,
-      "id": "48b75c31b5793e04",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -280,
-      "y": -400
-    },
-    {
       "file": "Global/Community/Resources/DataKind.md",
       "height": 400,
       "id": "58ad5c648a75b8fe",
@@ -36,6 +14,28 @@
       "y": 40
     },
     {
+      "file": "Global/Community/Resources/Kaggle.md",
+      "height": 400,
+      "id": "48b75c31b5793e04",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -280,
+      "y": -480
+    },
+    {
+      "file": "Global/Community/Resources/TorontoJS.md",
+      "height": 400,
+      "id": "4fc7332c0364533c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -280,
+      "y": -1000
+    },
+    {
       "file": "Global/Community/Resources/Data for Good.md",
       "height": 400,
       "id": "6b98a11af80934ae",
@@ -43,8 +43,19 @@
       },
       "type": "file",
       "width": 400,
-      "x": 160,
+      "x": 240,
       "y": 40
+    },
+    {
+      "file": "Global/Community/Resources/Obsidian Discord.md",
+      "height": 400,
+      "id": "81333a63123a91f6",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 240,
+      "y": -480
     }
   ]
 }

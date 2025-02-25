@@ -21,6 +21,8 @@ tags:
 - [ ] Into the Breach
 - [ ] Wipeout Pure
 - [ ] Wipeout Pulse
+- [ ] Metal Gear Solid
+- [ ] Citra
 
 
 ## Done
