@@ -17,10 +17,6 @@ tags:
 - [ ] Soundtrack to a Coup d'Etat
 - [ ] Breaking Dawn Part 1
 - [ ] Grand Theft Hamlet
-- [ ] The Brutalist
-- [ ] Mars Express
-- [ ] I'm Still Here
-- [ ] Hundreds of Beavers
 
 
 ## 2024
@@ -158,6 +154,8 @@ tags:
 	4
 - [x] King Arthur (2004)
 	6
+- [ ] The Royal We
+	8
 - [x] The Perfect Setting
 	4
 - [x] Return to Office

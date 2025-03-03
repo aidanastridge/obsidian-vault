@@ -17,17 +17,17 @@ tags:
 - [ ] Zero Escape: Virtue's Last Reward
 - [ ] Zero Time Dilemma
 - [ ] Ghost Trick: Phantom Detective
-- [ ] Dead Cells: Return to Castlevania
-- [ ] Into the Breach
 - [ ] Wipeout Pure
 - [ ] Wipeout Pulse
-- [ ] Metal Gear Solid
-- [ ] Citra
+- [ ] Castlevania: Dawn of Shadow
+- [ ] Castlevania: Order of Ecclesia
 
 
 ## Done
 
 - [x] Professor Layton and the Curious Village
+- [ ] Metal Gear Solid
+- [ ] Into the Breach
 
 
 

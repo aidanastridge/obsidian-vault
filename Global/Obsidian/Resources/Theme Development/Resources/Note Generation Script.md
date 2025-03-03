@@ -1,4 +1,8 @@
+Tags: #python 
 
+```bash
+python3 obsidian-note-generator.py
+```
 ```python
 import os
 import random
