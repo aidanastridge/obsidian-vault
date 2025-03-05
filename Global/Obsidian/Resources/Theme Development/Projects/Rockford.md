@@ -3,7 +3,7 @@ kanban-plugin: board
 tags:
   - css
 ---
-[[CSS]]
+[[Obsidian CSS Selectors Script]]
 ## To do
 
 

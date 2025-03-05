@@ -1,14 +1,14 @@
 ---
 kanban-plugin: board
 tags:
-  - css
+  - todo
 ---
-[[Obsidian CSS Selectors Script]]
-## To do
+
+## To Listen
 
 
 
-## Finished
+## Listened
 
 
 
