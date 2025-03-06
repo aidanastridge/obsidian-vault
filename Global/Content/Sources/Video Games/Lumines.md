@@ -1,4 +1,5 @@
 Tags: #games
+Links: [[Video Games]]
 
 (Title::Lumines)
 (Developer::Q Entertainment)

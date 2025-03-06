@@ -1,9 +1,7 @@
 ---
-
 kanban-plugin: board
 tags:
-  - todo
-
+  - tasks
 ---
 
 ## To watch

@@ -1,4 +1,5 @@
 Tags: #games
+Links: [[Video Games]]
 
 (Title:: Dead Cells)
 (Developer:: Motion Twin/Evil Empire)

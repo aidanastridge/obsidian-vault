@@ -1,8 +1,3 @@
 Tags: #hobbies 
-
-Links:
-
-- [[Drawing]]
-- [[Painting]]
-- [[Charcoal]]
+Links: [[Art.canvas|Art]]
 

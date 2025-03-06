@@ -1,6 +1,3 @@
 Tags: #computers
-
-Links:
-
-- [[Data Science.canvas|Data Science]]
+Links: [[Data Science.canvas|Data Science]]
 

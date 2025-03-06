@@ -1,9 +1,11 @@
 ---
 kanban-plugin: board
 tags:
-  - computers
   - tasks
 ---
+
+## 
+
 [[Python.canvas|Python]]
 [[R.canvas|R]]
 [[Tidyverse.canvas|Tidyverse]]
@@ -14,10 +16,6 @@ tags:
 [[Front-end Development.canvas|Front-end Development]]
 [[Back-end Development.canvas|Back-end Development]]
 [[Tasks.canvas|Tasks]]
-## 
-
-
-
 
 
 %% kanban:settings

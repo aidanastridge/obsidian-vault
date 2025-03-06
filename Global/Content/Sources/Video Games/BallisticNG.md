@@ -1,4 +1,5 @@
-Tags: #games 
+Tags: #games
+Links: [[Video Games]]
 
 (Title::BallisticNG)
 (Developer::Neognosis)

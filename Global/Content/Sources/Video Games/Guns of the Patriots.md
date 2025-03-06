@@ -1,4 +1,5 @@
 Tags: #games
+Links: [[Video Games]]
 
 (Title:: Metal Gear Solid 4: Guns of the Patriots)
 (Developer:: Kojima Productions)

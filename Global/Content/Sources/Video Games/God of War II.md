@@ -1,4 +1,5 @@
 Tags: #games
+Links: [[Video Games]]
 
 (Title:: God of War II)
 (Developer:: Santa Monica Studios)

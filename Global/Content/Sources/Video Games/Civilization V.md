@@ -1,4 +1,5 @@
 Tags: #games
+Links: [[Video Games]]
 
 (Title:: Civilization V)
 (Developer:: Firaxis)

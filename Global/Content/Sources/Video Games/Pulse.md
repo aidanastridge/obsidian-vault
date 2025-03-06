@@ -1,4 +1,5 @@
 Tags: #games
+Links: [[Video Games]]
 
 (Title::Wipeout Pulse)
 (Developer::Studio Liverpool)

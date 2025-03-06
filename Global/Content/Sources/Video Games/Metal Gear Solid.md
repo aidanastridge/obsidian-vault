@@ -1,4 +1,5 @@
 Tags: #games
+Links: [[Video Games]]
 
 (Title:: Metal Gear Solid)
 (Developer:: Kojima Productions)

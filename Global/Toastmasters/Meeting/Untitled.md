@@ -1,3 +1,4 @@
+Tags: #daily 
 
 >[!todo]  Speech
 >5 - 7 minutes

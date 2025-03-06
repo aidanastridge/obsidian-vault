@@ -1,4 +1,5 @@
 Tags: #games
+Links: [[Video Games]]
 
 (Title:: Metal Gear Solid 3: Snake Eater)
 (Developer:: Kojima Productions)

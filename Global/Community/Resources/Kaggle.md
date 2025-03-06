@@ -1,10 +1,5 @@
 Tags: #computers 
-
-Links:
-
-- [[SQL.canvas|SQL]]
-- [[Python.canvas|Python]]
-- [[Data Science.canvas|Data Science]]
+Links: [[Data Science.canvas|Data Science]] | [[Python.canvas|Python]]
 
 
 

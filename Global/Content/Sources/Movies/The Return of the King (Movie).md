@@ -1,4 +1,5 @@
 Tags: #movies 
+Links: [[Movies]]
 
 (Title:: The Lord of the Rings: The Return of the King)
 (Director:: Peter Jackson)

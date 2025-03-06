@@ -1,4 +1,5 @@
 Tags: #games
+Links: [[Video Games]]
 
 (Title::Wipeout Pure)
 (Developer::Studio Liverpool)

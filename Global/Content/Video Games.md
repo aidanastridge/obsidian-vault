@@ -1,6 +1,6 @@
 
 ```dataview
-TABLE Title, Developer, Genre, Year, Console
+TABLE Title, Developer, Genre, Console, Year
 FROM #games 
 SORT Year desc
 ```

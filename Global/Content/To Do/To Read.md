@@ -1,7 +1,7 @@
 ---
 kanban-plugin: board
 tags:
-  - todo
+  - tasks
 ---
 
 ## Fiction

@@ -1,4 +1,5 @@
 Tags: #movies 
+Links: [[Movies]]
 
 (Title:: Mad Max: Fury Road)
 (Director:: George Miller)

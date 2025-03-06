@@ -1,8 +1,4 @@
 Tags: #hobbies 
-
-Links:
-
-- [[Art.canvas|Art]]
-
+Links: [[Art.canvas|Art]]
 
 

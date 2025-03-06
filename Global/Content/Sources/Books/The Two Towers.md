@@ -1,4 +1,5 @@
 Tags: #books
+Links: [[Books]]
 
 (Title:: Lord of the Rings: The Two Towers)
 (Author::J.R.R Tolkien)

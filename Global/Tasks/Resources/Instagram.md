@@ -1,7 +1,6 @@
 ---
 kanban-plugin: board
 tags:
-  - hobbies
   - tasks
 ---
 

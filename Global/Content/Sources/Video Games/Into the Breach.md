@@ -1,4 +1,5 @@
 Tags: #games
+Links: [[Video Games]]
 
 (Title:: Into The Breach)
 (Developer:: Subset Games)
