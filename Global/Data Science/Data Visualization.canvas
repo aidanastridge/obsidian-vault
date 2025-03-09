@@ -1,132 +1,116 @@
 {
-  "edges": [
-    {
-      "fromNode": "4515e5667ef23e63",
-      "fromSide": "left",
-      "id": "22d05fd8cc6c113b",
-      "styleAttributes": {
-        "arrow": null,
-        "path": "dotted",
-        "pathfindingMethod": null
-      },
-      "toEnd": "none",
-      "toNode": "16b9267eb7ef36f2",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "9f2692a79efc3a24",
-      "fromSide": "left",
-      "id": "d2113ea035ffe77f",
-      "styleAttributes": {
-        "arrow": "circle-outline",
-        "path": "dotted"
-      },
-      "toEnd": "none",
-      "toNode": "4515e5667ef23e63",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "c0d0e7e6e1c031cb",
-      "fromSide": "left",
-      "id": "6d8baf2d5a9dcd3b",
-      "styleAttributes": {
-        "arrow": "circle-outline",
-        "path": "dotted"
-      },
-      "toEnd": "none",
-      "toNode": "9f2692a79efc3a24",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "44b1f419d90599ff",
-      "fromSide": "left",
-      "id": "6131fc9f0ac8c8e5",
-      "styleAttributes": {
-        "arrow": "circle-outline",
-        "path": "dotted"
-      },
-      "toEnd": "none",
-      "toNode": "c0d0e7e6e1c031cb",
-      "toSide": "right"
-    }
-  ],
-  "nodes": [
-    {
-      "file": "Global/JavaScript/Libraries/Chart.js.md",
-      "height": 400,
-      "id": "16b9267eb7ef36f2",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -640,
-      "y": -1120
-    },
-    {
-      "file": "Global/JavaScript/Libraries/Highcharts.md",
-      "height": 400,
-      "id": "4515e5667ef23e63",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -160,
-      "y": -1120
-    },
-    {
-      "file": "Global/JavaScript/Libraries/D3.js.md",
-      "height": 400,
-      "id": "9f2692a79efc3a24",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 320,
-      "y": -1120
-    },
-    {
-      "file": "Global/JavaScript/Libraries/Reveal.js.md",
-      "height": 400,
-      "id": "c0d0e7e6e1c031cb",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 800,
-      "y": -1120
-    },
-    {
-      "file": "Global/JavaScript/Libraries/SciChart.js.md",
-      "height": 400,
-      "id": "44b1f419d90599ff",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 1280,
-      "y": -1120
-    },
-    {
-      "file": "Global/R/Libraries/ggplot2.md",
-      "height": 400,
-      "id": "08a69cb633c53e4d",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -640,
-      "y": -640
-    },
-    {
-      "file": "Global/Python/Packages/matplotlib.md",
-      "height": 400,
-      "id": "67ea92ec28355903",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -640,
-      "y": -160
-    }
-  ]
+	"edges":[
+		{
+			"fromNode":"4515e5667ef23e63",
+			"fromSide":"left",
+			"id":"22d05fd8cc6c113b",
+			"styleAttributes":{
+				"arrow":null,
+				"path":"dotted",
+				"pathfindingMethod":null
+			},
+			"toEnd":"none",
+			"toNode":"16b9267eb7ef36f2",
+			"toSide":"right"
+		},
+		{
+			"fromNode":"9f2692a79efc3a24",
+			"fromSide":"left",
+			"id":"d2113ea035ffe77f",
+			"styleAttributes":{"arrow":"circle-outline","path":"dotted"},
+			"toEnd":"none",
+			"toNode":"4515e5667ef23e63",
+			"toSide":"right"
+		},
+		{
+			"fromNode":"c0d0e7e6e1c031cb",
+			"fromSide":"left",
+			"id":"6d8baf2d5a9dcd3b",
+			"styleAttributes":{"arrow":"circle-outline","path":"dotted"},
+			"toEnd":"none",
+			"toNode":"9f2692a79efc3a24",
+			"toSide":"right"
+		},
+		{
+			"fromNode":"44b1f419d90599ff",
+			"fromSide":"left",
+			"id":"6131fc9f0ac8c8e5",
+			"styleAttributes":{"arrow":"circle-outline","path":"dotted"},
+			"toEnd":"none",
+			"toNode":"c0d0e7e6e1c031cb",
+			"toSide":"right"
+		}
+	],
+	"nodes":[
+		{
+			"file":"Global/JavaScript/Libraries/Chart.js.md",
+			"height":400,
+			"id":"16b9267eb7ef36f2",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-640,
+			"y":-1120
+		},
+		{
+			"file":"Global/JavaScript/Libraries/Highcharts.md",
+			"height":400,
+			"id":"4515e5667ef23e63",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-160,
+			"y":-1120
+		},
+		{
+			"file":"Global/JavaScript/Libraries/D3.js.md",
+			"height":400,
+			"id":"9f2692a79efc3a24",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":320,
+			"y":-1120
+		},
+		{
+			"file":"Global/JavaScript/Libraries/Reveal.js.md",
+			"height":400,
+			"id":"c0d0e7e6e1c031cb",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":800,
+			"y":-1120
+		},
+		{
+			"file":"Global/JavaScript/Libraries/SciChart.js.md",
+			"height":400,
+			"id":"44b1f419d90599ff",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":1280,
+			"y":-1120
+		},
+		{
+			"file":"Global/R/Libraries/ggplot2.md",
+			"height":400,
+			"id":"08a69cb633c53e4d",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-640,
+			"y":-640
+		},
+		{
+			"file":"Global/Python/Packages/matplotlib.md",
+			"height":400,
+			"id":"67ea92ec28355903",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-640,
+			"y":-160
+		}
+	]
 }

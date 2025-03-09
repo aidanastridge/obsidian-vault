@@ -5,6 +5,8 @@ Links: [[Movies]]
 (Director:: Tony Scott)
 (Year::2010)
 (Genre::Action)
+(IMDB::6.8)
+
 
 
 

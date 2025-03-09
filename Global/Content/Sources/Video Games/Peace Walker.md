@@ -6,6 +6,8 @@ Links: [[Video Games]]
 (Year::2010)
 (Genre::Action)
 (Console::PSP)
+(Metacritic::89)
+
 
 
 

@@ -6,6 +6,7 @@ Links: [[Video Games]]
 (Year::2017)
 (Genre::Action)
 (Console::Mac)
+(Metacritic::89)
 
 
 

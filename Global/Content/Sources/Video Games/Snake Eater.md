@@ -6,6 +6,7 @@ Links: [[Video Games]]
 (Year::2004)
 (Genre::Action)
 (Console::PS2)
+(Metacritic::94)
 
 
 

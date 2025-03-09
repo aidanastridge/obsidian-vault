@@ -1,0 +1,36 @@
+{
+	"edges":[],
+	"nodes":[
+		{
+			"file":"Global/Content/Books.md",
+			"id":"d7d087cff0b2ae13",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-960,
+			"y":-80,
+			"width":680,
+			"height":400
+		},
+		{"file":"Global/Content/Albums.md","id":"52a65af31ffbee8a","type":"file","x":-960,"y":-580,"width":680,"height":400},
+		{
+			"file":"Global/Content/TV Shows.md",
+			"id":"0ef066668226da30",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-960,
+			"y":-1080,
+			"width":680,
+			"height":400
+		},
+		{
+			"file":"Global/Content/Movies.md",
+			"id":"1b9db1c7c7231d55",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-960,
+			"y":-1560,
+			"width":680,
+			"height":400
+		}
+	]
+}

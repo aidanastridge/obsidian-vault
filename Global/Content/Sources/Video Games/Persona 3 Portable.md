@@ -6,3 +6,4 @@ Links: [[Video Games]]
 (Year::2009)
 (Genre::RPG)
 (Console::PSP)
+(Metacritic::89)

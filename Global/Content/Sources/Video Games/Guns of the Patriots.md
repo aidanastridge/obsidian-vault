@@ -6,7 +6,7 @@ Links: [[Video Games]]
 (Year::2008)
 (Genre::Action)
 (Console::PS3)
-
+(Metacritic::94)
 
 
 

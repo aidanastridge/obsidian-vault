@@ -1,15 +1,18 @@
 ---
+
 kanban-plugin: board
 tags:
   - css
+
 ---
-[[Obsidian CSS Selectors Script]]
+
 ## To do
 
 
 
 ## Finished
 
+- [ ] Created repository:
 
 
 

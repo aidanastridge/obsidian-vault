@@ -1,7 +1,9 @@
 ---
+
 kanban-plugin: board
 tags:
   - tasks
+
 ---
 
 ## To do
@@ -17,6 +19,9 @@ tags:
 - [ ] Ghost Trick: Phantom Detective
 - [ ] Wipeout Pure
 - [ ] Wipeout Pulse
+- [ ] SMT IV
+- [ ] SMT Strange Journey
+- [ ] SMT IV: Apocalypse
 
 
 ## Done

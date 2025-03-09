@@ -6,7 +6,7 @@ Links: [[Video Games]]
 (Year::2012)
 (Genre::Strategy)
 (Console::PS3)
-
+(Metacritic::89)
 
 
 

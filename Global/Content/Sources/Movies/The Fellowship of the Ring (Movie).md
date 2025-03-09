@@ -5,6 +5,7 @@ Links: [[Movies]]
 (Director:: Peter Jackson)
 (Year::2001)
 (Genre::Fantasy)
+(IMDB::8.9)
 
 
 

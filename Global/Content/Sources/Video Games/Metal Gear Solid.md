@@ -6,6 +6,7 @@ Links: [[Video Games]]
 (Year::1998)
 (Genre::Action)
 (Console::PS1)
+(Metacritic::94)
 
 
 

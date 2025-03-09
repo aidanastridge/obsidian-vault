@@ -1,6 +1,7 @@
 
-```dataview
-TABLE Title, Author, Genre, Year
+```datacards
+TABLE Title, Author, Genre, Year, goodreads
 FROM #books 
 SORT Year desc
 ```
+

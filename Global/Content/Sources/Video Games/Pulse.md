@@ -6,6 +6,7 @@ Links: [[Video Games]]
 (Year::2007)
 (Genre::Racing)
 (Console::PSP)
+(Metacritic::82)
 
 
 

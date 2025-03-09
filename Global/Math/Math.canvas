@@ -1,17 +1,15 @@
 {
-  "edges": [
-  ],
-  "nodes": [
-    {
-      "file": "Global/Math/Math — Susan Rigetti.md",
-      "height": 527,
-      "id": "7fb45e91f8c33075",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 440,
-      "x": -800,
-      "y": -740
-    }
-  ]
+	"edges":[],
+	"nodes":[
+		{
+			"file":"Global/Math/Math — Susan Rigetti.md",
+			"height":527,
+			"id":"7fb45e91f8c33075",
+			"styleAttributes":{},
+			"type":"file",
+			"width":440,
+			"x":-800,
+			"y":-740
+		}
+	]
 }

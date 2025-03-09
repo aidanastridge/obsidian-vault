@@ -6,6 +6,7 @@ Links: [[Video Games]]
 (Year::2001)
 (Genre::Action)
 (Console::PS2)
+(Metacritic::96)
 
 
 

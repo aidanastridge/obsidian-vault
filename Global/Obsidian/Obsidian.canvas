@@ -1,94 +1,86 @@
 {
-  "edges": [
-    {
-      "fromNode": "cbd3635147760302",
-      "fromSide": "bottom",
-      "id": "348a3a37f747d1d3",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "f0d1499172868e04",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "cbd3635147760302",
-      "fromSide": "bottom",
-      "id": "8dbbb957b6c3d285",
-      "styleAttributes": {
-        "arrow": null,
-        "pathfindingMethod": "square"
-      },
-      "toNode": "d2333e030c1f260a",
-      "toSide": "left"
-    }
-  ],
-  "nodes": [
-    {
-      "color": "2",
-      "height": 560,
-      "id": "aa15142403eee218",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 1040,
-      "x": 480,
-      "y": 1520
-    },
-    {
-      "color": "5",
-      "file": "Global/Obsidian/Resources/Theme Development/Projects/For Theme Designers.md",
-      "height": 400,
-      "id": "f0d1499172868e04",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 0,
-      "y": 493
-    },
-    {
-      "file": "Global/Obsidian/Resources/Theme Development/Resources/Note Generation Script.md",
-      "height": 400,
-      "id": "77221eec78b61695",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 560,
-      "y": 1600
-    },
-    {
-      "file": "Global/Obsidian/Resources/Theme Development/Resources/Transcription Script.md",
-      "height": 400,
-      "id": "504d20d5706424b9",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 1040,
-      "y": 1600
-    },
-    {
-      "file": "Global/Obsidian/Resources/Developer Documentation.md",
-      "height": 400,
-      "id": "cbd3635147760302",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -600,
-      "y": -40
-    },
-    {
-      "file": "Global/Obsidian/Resources/Plugin Development/Resources/For Plugin Developers.md",
-      "height": 400,
-      "id": "d2333e030c1f260a",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 0,
-      "y": 1025
-    }
-  ]
+	"edges":[
+		{
+			"fromNode":"cbd3635147760302",
+			"fromSide":"bottom",
+			"id":"348a3a37f747d1d3",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toNode":"f0d1499172868e04",
+			"toSide":"left"
+		},
+		{
+			"fromNode":"cbd3635147760302",
+			"fromSide":"bottom",
+			"id":"8dbbb957b6c3d285",
+			"styleAttributes":{
+				"arrow":null,
+				"pathfindingMethod":"square"
+			},
+			"toNode":"d2333e030c1f260a",
+			"toSide":"left"
+		}
+	],
+	"nodes":[
+		{
+			"color":"2",
+			"height":560,
+			"id":"aa15142403eee218",
+			"styleAttributes":{},
+			"type":"group",
+			"width":1040,
+			"x":480,
+			"y":1520
+		},
+		{
+			"color":"5",
+			"file":"Global/Obsidian/Resources/Theme Development/For Theme Designers.md",
+			"height":400,
+			"id":"f0d1499172868e04",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":0,
+			"y":493
+		},
+		{
+			"file":"Global/Obsidian/Resources/Theme Development/Resources/Note Generation Script.md",
+			"height":400,
+			"id":"77221eec78b61695",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":560,
+			"y":1600
+		},
+		{
+			"file":"Global/Obsidian/Resources/Theme Development/Resources/Transcription Script.md",
+			"height":400,
+			"id":"504d20d5706424b9",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":1040,
+			"y":1600
+		},
+		{
+			"file":"Global/Obsidian/Resources/Developer Documentation.md",
+			"height":400,
+			"id":"cbd3635147760302",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-600,
+			"y":-40
+		},
+		{
+			"file":"Global/Obsidian/Resources/Plugin Development/Resources/For Plugin Developers.md",
+			"height":400,
+			"id":"d2333e030c1f260a",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":0,
+			"y":1025
+		}
+	]
 }

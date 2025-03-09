@@ -5,6 +5,7 @@ Links: [[Movies]]
 (Director:: Peter Jackson)
 (Year::2002)
 (Genre::Fantasy)
+(IMDB::8.8)
 
 
 

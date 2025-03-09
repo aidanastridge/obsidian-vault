@@ -6,6 +6,8 @@ Links: [[Video Games]]
 (Year::2018)
 (Genre::Strategy)
 (Console::Mac)
+(Metacritic::90)
+
 
 
 

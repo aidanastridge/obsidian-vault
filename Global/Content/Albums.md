@@ -1,7 +1,10 @@
 
-```dataview
-TABLE Title, Artist, Genre, RYM, Year
+```datacards
+TABLE Title, Artist, Genre, Year, RYM
 FROM #albums 
 SORT Year desc
+
+// Settings
+preset: portrait
 ```
 

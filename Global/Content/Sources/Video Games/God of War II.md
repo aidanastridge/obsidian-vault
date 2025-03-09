@@ -6,6 +6,7 @@ Links: [[Video Games]]
 (Year::2007)
 (Genre::Action)
 (Console::PS2)
+(Metacritic::93)
 
 
 

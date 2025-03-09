@@ -5,7 +5,7 @@ Links: [[Books]]
 (Author:: J.R.R Tolkien)
 (Year::1954)
 (Genre::Fantasy)
-
+(goodreads::4.40)
 
 
 
