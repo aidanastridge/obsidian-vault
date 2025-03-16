@@ -1,9 +1,11 @@
+---
+tags:
+  - movies
+---
 
 ```datacards
-TABLE Title, Director, Genre, Year, IMDB
+TABLE without id Title, Director, Genre, Year, IMDB
 FROM #movies
 SORT Year desc
 ```
 
-
-\

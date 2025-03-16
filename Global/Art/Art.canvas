@@ -1,91 +1,83 @@
 {
-  "edges": [
-    {
-      "fromNode": "bc9302b8533deac7",
-      "fromSide": "right",
-      "id": "2de36a4728f61e6b",
-      "styleAttributes": {
-      },
-      "toEnd": "none",
-      "toNode": "1f668aa2ee4adc84",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "234759421224ead0",
-      "fromSide": "right",
-      "id": "56daf66c88b7b93d",
-      "styleAttributes": {
-      },
-      "toEnd": "none",
-      "toNode": "1f668aa2ee4adc84",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "129d9346a6776d59",
-      "fromSide": "right",
-      "id": "b3bb61ee918e4e3c",
-      "styleAttributes": {
-      },
-      "toEnd": "none",
-      "toNode": "1f668aa2ee4adc84",
-      "toSide": "bottom"
-    }
-  ],
-  "nodes": [
-    {
-      "file": "Global/Art/Resources/Charcoal.md",
-      "height": 400,
-      "id": "234759421224ead0",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -440,
-      "y": -760
-    },
-    {
-      "file": "Global/Art/Resources/Drawing.md",
-      "height": 400,
-      "id": "bc9302b8533deac7",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -440,
-      "y": -320
-    },
-    {
-      "file": "Global/Art/Resources/Painting.md",
-      "height": 400,
-      "id": "129d9346a6776d59",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -440,
-      "y": 120
-    },
-    {
-      "file": "Global/Community/Resources/Comic Arts Social Toronto.md",
-      "height": 400,
-      "id": "1f668aa2ee4adc84",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 0,
-      "y": -320
-    },
-    {
-      "file": "Global/Art/Resources/Video Editing.md",
-      "height": 400,
-      "id": "0f8c17b6cd6c5d7b",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 460,
-      "y": -320
-    }
-  ]
+	"edges":[
+		{
+			"fromNode":"bc9302b8533deac7",
+			"fromSide":"right",
+			"id":"2de36a4728f61e6b",
+			"styleAttributes":{},
+			"toEnd":"none",
+			"toNode":"1f668aa2ee4adc84",
+			"toSide":"left"
+		},
+		{
+			"fromNode":"234759421224ead0",
+			"fromSide":"right",
+			"id":"56daf66c88b7b93d",
+			"styleAttributes":{},
+			"toEnd":"none",
+			"toNode":"1f668aa2ee4adc84",
+			"toSide":"top"
+		},
+		{
+			"fromNode":"129d9346a6776d59",
+			"fromSide":"right",
+			"id":"b3bb61ee918e4e3c",
+			"styleAttributes":{},
+			"toEnd":"none",
+			"toNode":"1f668aa2ee4adc84",
+			"toSide":"bottom"
+		}
+	],
+	"nodes":[
+		{
+			"file":"Global/Art/Resources/Charcoal.md",
+			"height":400,
+			"id":"234759421224ead0",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-440,
+			"y":-760
+		},
+		{
+			"file":"Global/Art/Resources/Drawing.md",
+			"height":400,
+			"id":"bc9302b8533deac7",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-440,
+			"y":-320
+		},
+		{
+			"file":"Global/Art/Resources/Painting.md",
+			"height":400,
+			"id":"129d9346a6776d59",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-440,
+			"y":120
+		},
+		{
+			"file":"Global/Art/Resources/Comic Arts Social Toronto.md",
+			"height":400,
+			"id":"1f668aa2ee4adc84",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":0,
+			"y":-320
+		},
+		{
+			"file":"Global/Art/Resources/Video Editing.md",
+			"height":400,
+			"id":"0f8c17b6cd6c5d7b",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":460,
+			"y":-320
+		}
+	]
 }

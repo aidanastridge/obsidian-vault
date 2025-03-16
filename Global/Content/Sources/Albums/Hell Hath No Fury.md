@@ -1,4 +1,8 @@
-Tag: #albums
+---
+tags:
+  - albums
+---
+
 Links: [[Albums]]
 
 (Title::Hell Hath No Fury)

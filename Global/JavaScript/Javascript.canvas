@@ -1,107 +1,99 @@
 {
-  "edges": [
-  ],
-  "nodes": [
-    {
-      "height": 960,
-      "id": "fd91f36de6d16731",
-      "label": "Beginner",
-      "styleAttributes": {
-        "border": null
-      },
-      "type": "group",
-      "width": 1840,
-      "x": -1200,
-      "y": -800
-    },
-    {
-      "file": "Global/JavaScript/Code/Scope.md",
-      "height": 400,
-      "id": "a0826125d45fee9e",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 180,
-      "y": -740
-    },
-    {
-      "file": "Global/JavaScript/Code/Functions.md",
-      "height": 400,
-      "id": "38cf7bbd9822f197",
-      "styleAttributes": {
-        "border": null
-      },
-      "type": "file",
-      "width": 400,
-      "x": 180,
-      "y": -300
-    },
-    {
-      "file": "Global/JavaScript/Code/Loops.md",
-      "height": 400,
-      "id": "cbc681ef01190256",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -260,
-      "y": -740
-    },
-    {
-      "file": "Global/JavaScript/Code/Objects.md",
-      "height": 400,
-      "id": "63187b926ffe734a",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -260,
-      "y": -300
-    },
-    {
-      "file": "Global/JavaScript/Code/Classes.md",
-      "height": 400,
-      "id": "36c109cd2832aa9e",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -700,
-      "y": -300
-    },
-    {
-      "file": "Global/JavaScript/Code/Iterators.md",
-      "height": 400,
-      "id": "75b0518244406356",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -700,
-      "y": -740
-    },
-    {
-      "file": "Global/JavaScript/Code/Conditionals.md",
-      "height": 400,
-      "id": "3ea9785818f654c6",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -1140,
-      "y": -740
-    },
-    {
-      "file": "Global/JavaScript/Code/Arrays.md",
-      "height": 400,
-      "id": "c870cd9666b5d7c8",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -1140,
-      "y": -300
-    }
-  ]
+	"edges":[],
+	"nodes":[
+		{
+			"height":960,
+			"id":"fd91f36de6d16731",
+			"label":"Beginner",
+			"styleAttributes":{
+				"border":null
+			},
+			"type":"group",
+			"width":1840,
+			"x":-1200,
+			"y":-800
+		},
+		{
+			"file":"Global/JavaScript/Code/Scope.md",
+			"height":400,
+			"id":"a0826125d45fee9e",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":180,
+			"y":-740
+		},
+		{
+			"file":"Global/JavaScript/Code/Functions.md",
+			"height":400,
+			"id":"38cf7bbd9822f197",
+			"styleAttributes":{
+				"border":null
+			},
+			"type":"file",
+			"width":400,
+			"x":180,
+			"y":-300
+		},
+		{
+			"file":"Global/JavaScript/Code/Loops.md",
+			"height":400,
+			"id":"cbc681ef01190256",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-260,
+			"y":-740
+		},
+		{
+			"file":"Global/JavaScript/Code/Objects.md",
+			"height":400,
+			"id":"63187b926ffe734a",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-260,
+			"y":-300
+		},
+		{
+			"file":"Global/JavaScript/Code/Classes.md",
+			"height":400,
+			"id":"36c109cd2832aa9e",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-700,
+			"y":-300
+		},
+		{
+			"file":"Global/JavaScript/Code/Iterators.md",
+			"height":400,
+			"id":"75b0518244406356",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-700,
+			"y":-740
+		},
+		{
+			"file":"Global/JavaScript/Code/Conditionals.md",
+			"height":400,
+			"id":"3ea9785818f654c6",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-1140,
+			"y":-740
+		},
+		{
+			"file":"Global/JavaScript/Code/Arrays.md",
+			"height":400,
+			"id":"c870cd9666b5d7c8",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-1140,
+			"y":-300
+		}
+	]
 }

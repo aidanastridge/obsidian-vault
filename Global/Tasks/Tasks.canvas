@@ -1,39 +1,35 @@
 {
-  "edges": [
-  ],
-  "nodes": [
-    {
-      "file": "Global/Tasks/Resources/Instagram.md",
-      "height": 400,
-      "id": "918db246caadd025",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -340,
-      "y": 180
-    },
-    {
-      "file": "Global/Tasks/Resources/codecademy.md",
-      "height": 400,
-      "id": "ea1de098d1222ff7",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -340,
-      "y": 640
-    },
-    {
-      "file": "Global/Tasks/Resources/Github.md",
-      "height": 400,
-      "id": "ea65c2de6baca8e6",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 120,
-      "y": 640
-    }
-  ]
+	"edges":[],
+	"nodes":[
+		{
+			"file":"Global/Tasks/Resources/Instagram.md",
+			"height":400,
+			"id":"918db246caadd025",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-340,
+			"y":180
+		},
+		{
+			"file":"Global/Tasks/Resources/codecademy.md",
+			"height":400,
+			"id":"ea1de098d1222ff7",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-340,
+			"y":640
+		},
+		{
+			"file":"Global/Tasks/Resources/Github.md",
+			"height":400,
+			"id":"ea65c2de6baca8e6",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":120,
+			"y":640
+		}
+	]
 }

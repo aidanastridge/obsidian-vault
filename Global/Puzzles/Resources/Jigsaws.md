@@ -10,11 +10,11 @@ tags:
 
 - [ ] The Grand Canal Venice
 - [ ] Neuschwanstein Castle
-- [ ] Queen Elizabeth
 
 
 ## Done
 
+- [x] Queen Elizabeth
 - [x] Christmas Dogs
 - [x] Tea Cups
 - [x] Cereal Brands

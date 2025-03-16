@@ -7,6 +7,7 @@ Links: [[Video Games]]
 (Genre::Strategy)
 (Console::PS3)
 (Metacritic::89)
+(Publisher::2K)
 
 
 

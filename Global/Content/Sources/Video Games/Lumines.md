@@ -7,6 +7,7 @@ Links: [[Video Games]]
 (Genre::Puzzle)
 (Console::PSP)
 (Metacritic::89)
+(Publisher::Ubisoft)
 
 
 

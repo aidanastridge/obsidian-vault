@@ -1,4 +1,7 @@
-Tags: #javascript 
+---
+tags: javascript
+---
+Links: [[Javascript.canvas|Javascript]]
 ```javascript
 const rubiksCubeFacts = {
   possiblePermutations: '43,252,003,274,489,856,000',

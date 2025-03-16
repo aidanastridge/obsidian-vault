@@ -1,4 +1,8 @@
-Tags: #computers 
+---
+tags:
+  - computers
+---
+
 Links: [[Data Science.canvas|Data Science]] | [[Python.canvas|Python]]
 
 

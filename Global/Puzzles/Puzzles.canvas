@@ -1,28 +1,25 @@
 {
-  "edges": [
-  ],
-  "nodes": [
-    {
-      "file": "Global/Puzzles/Resources/Jigsaws.md",
-      "height": 400,
-      "id": "62d3a9d6b96cb10c",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 20,
-      "y": -20
-    },
-    {
-      "file": "Global/Puzzles/Resources/Crosswords.md",
-      "height": 400,
-      "id": "271121fec34723cd",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 20,
-      "y": 440
-    }
-  ]
+	"edges":[],
+	"nodes":[
+		{
+			"file":"Global/Puzzles/Resources/Jigsaws.md",
+			"height":400,
+			"id":"62d3a9d6b96cb10c",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":20,
+			"y":-20
+		},
+		{
+			"file":"Global/Puzzles/Resources/Crosswords.md",
+			"height":400,
+			"id":"271121fec34723cd",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":20,
+			"y":440
+		}
+	]
 }

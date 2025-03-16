@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"e32d0988eac39a3b","type":"group","x":-300,"y":-360,"width":190,"height":180,"color":"6"},
+		{"id":"1e74ec8ca875ba63","type":"group","x":-300,"y":180,"width":190,"height":180,"color":"6"},
+		{"id":"a4eab52de2838d04","type":"text","text":"Snake - Blind","x":-280,"y":-250,"width":150,"height":50},
+		{"id":"675d085ce1211a71","type":"text","text":"Santa","x":-280,"y":-160,"width":150,"height":50},
+		{"id":"db6a30eadf1194fe","type":"text","text":"Ace","x":-280,"y":-70,"width":150,"height":50},
+		{"id":"b223d60511c9578e","type":"text","text":"Lotus","x":-280,"y":20,"width":150,"height":50},
+		{"id":"67adf5162fca5d29","type":"text","text":"Clover","x":-280,"y":-340,"width":150,"height":50},
+		{"id":"65dfd8dc8a5d70cb","type":"text","text":"???","x":-280,"y":-420,"width":150,"height":50},
+		{"id":"cf51e708ec7a22ed","type":"text","text":"??? takes Clover hostage to get past door 5 alone, Lied too?","x":-40,"y":-680,"width":180,"height":140},
+		{"id":"2f93a22949629b0d","type":"text","text":"??? dies by explosion","x":-35,"y":-820,"width":170,"height":80,"color":"1"},
+		{"id":"8b6a0c3388c0872e","type":"text","text":"Door 5","x":140,"y":-70,"width":160,"height":50,"color":"5"},
+		{"id":"c9cf02b8934df5e5","type":"text","text":"  Seven - Amnesia","x":-280,"y":110,"width":150,"height":50},
+		{"id":"d90a864dbb8221cc","type":"text","text":"Junpei","x":-280,"y":200,"width":150,"height":50,"color":"#000000"},
+		{"id":"4c1982ef5642aea0","type":"text","text":"Akane - *June*","x":-280,"y":290,"width":150,"height":50,"color":"6"},
+		{"id":"603b86eee4a0ee99","type":"text","text":"Door 4","x":140,"y":20,"width":160,"height":50,"color":"2"},
+		{"id":"1e391adb9bac3e7d","type":"text","text":"Mars Door","x":400,"y":20,"width":160,"height":50,"color":"2"},
+		{"id":"f70c21d0df9b23c1","type":"text","text":"Saturn Door","x":660,"y":20,"width":160,"height":50,"color":"2"},
+		{"id":"0d0ace860122e459","type":"text","text":"Hospital","x":940,"y":-70,"width":160,"height":50},
+		{"id":"01e58e5a6f43a12e","type":"text","text":"Clover gors looking for Snake","x":940,"y":-360,"width":160,"height":50},
+		{"id":"9e21cd9d51b75023","type":"text","text":"Snake missing","x":940,"y":-260,"width":160,"height":50}
+	],
+	"edges":[
+		{"id":"e2b3220191a43e45","fromNode":"cf51e708ec7a22ed","fromSide":"top","toNode":"2f93a22949629b0d","toSide":"bottom"},
+		{"id":"7069e2a21159b4d2","fromNode":"67adf5162fca5d29","fromSide":"right","toNode":"8b6a0c3388c0872e","toSide":"left","color":"5"},
+		{"id":"d9c668c278923a7d","fromNode":"a4eab52de2838d04","fromSide":"right","toNode":"8b6a0c3388c0872e","toSide":"left","color":"5"},
+		{"id":"d1af64ee550675ee","fromNode":"db6a30eadf1194fe","fromSide":"right","toNode":"8b6a0c3388c0872e","toSide":"left","color":"5"},
+		{"id":"edb36485e62aa37c","fromNode":"c9cf02b8934df5e5","fromSide":"right","toNode":"8b6a0c3388c0872e","toSide":"left","color":"5"},
+		{"id":"8a90a2896d719377","fromNode":"675d085ce1211a71","fromSide":"right","toNode":"603b86eee4a0ee99","toSide":"left","color":"2"},
+		{"id":"5b54377822ecc273","fromNode":"b223d60511c9578e","fromSide":"right","toNode":"603b86eee4a0ee99","toSide":"left","color":"2"},
+		{"id":"f27725fdb3d8e562","fromNode":"d90a864dbb8221cc","fromSide":"right","toNode":"603b86eee4a0ee99","toSide":"left","color":"#000000"},
+		{"id":"557c70891ed0a50c","fromNode":"4c1982ef5642aea0","fromSide":"right","toNode":"603b86eee4a0ee99","toSide":"left","color":"2"},
+		{"id":"8dab0eb81f72422d","fromNode":"65dfd8dc8a5d70cb","fromSide":"right","toNode":"cf51e708ec7a22ed","toSide":"bottom"},
+		{"id":"398b1fc0fc41c6ea","fromNode":"603b86eee4a0ee99","fromSide":"right","toNode":"1e391adb9bac3e7d","toSide":"left","color":"2"},
+		{"id":"beb77da671855f54","fromNode":"1e391adb9bac3e7d","fromSide":"right","toNode":"f70c21d0df9b23c1","toSide":"left","color":"2"},
+		{"id":"dc1a6aa6dfc9f69a","fromNode":"8b6a0c3388c0872e","fromSide":"right","toNode":"0d0ace860122e459","toSide":"left","color":"5"},
+		{"id":"b47ea03bd67f6901","fromNode":"f70c21d0df9b23c1","fromSide":"right","toNode":"0d0ace860122e459","toSide":"left","color":"2"},
+		{"id":"7fbab87b973467a7","fromNode":"0d0ace860122e459","fromSide":"top","toNode":"9e21cd9d51b75023","toSide":"bottom","label":"6"},
+		{"id":"9ba5ee5b9d7d18b1","fromNode":"9e21cd9d51b75023","fromSide":"top","toNode":"01e58e5a6f43a12e","toSide":"bottom"}
+	]
+}

@@ -1,4 +1,7 @@
-Tags: #javascript 
+---
+tags: javascript
+---
+Links: [[Javascript.canvas|Javascript]]
 ```javascript
 // ||
 true || false; // true

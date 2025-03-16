@@ -1,4 +1,8 @@
-Tag: #albums
+---
+tags:
+  - albums
+---
+
 Links: [[Albums]]
 
 (Title::Kids See Ghosts)

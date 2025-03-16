@@ -1,6 +1,6 @@
 
 ```datacards
-TABLE Title, Developer, Genre, Console, Year, Metacritic
+TABLE without id Title, Developer, Publisher, Genre, Console, Year, Metacritic
 FROM #games 
 SORT Year desc
 ```

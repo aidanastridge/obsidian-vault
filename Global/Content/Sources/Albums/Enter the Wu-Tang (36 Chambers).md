@@ -1,4 +1,8 @@
-Tag: #albums
+---
+tags:
+  - albums
+---
+
 Links: [[Albums]]
 
 (Title::Enter the Wu-Tang (36 Chambers))

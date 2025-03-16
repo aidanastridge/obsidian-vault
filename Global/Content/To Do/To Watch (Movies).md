@@ -8,179 +8,181 @@ tags:
 
 ## To watch
 
-- [ ] (Name::The Girl with the Needle)
+- [ ] The Girl with the Needle
 	[Rating:: None]
-- [ ] (Name::The Zone of Interest)
+- [ ] The Zone of Interest
 	[Rating:: None]
-- [ ] (Name::New Moon)
+- [ ] New Moon
 	[Rating:: None]
-- [ ] (Name::Eclipse)
+- [ ] Eclipse
 	[Rating:: None]
-- [ ] (Name::Breaking Dawn Part 2)
+- [ ] Breaking Dawn Part 2
 	[Rating:: None]
-- [ ] (Name::The Wages of Fear)
+- [ ] The Wages of Fear
 	[Rating:: None]
-- [ ] (Name::Soundtrack to a Coup d'Etat)
+- [ ] Soundtrack to a Coup d'Etat
 	[Rating:: None]
-- [ ] (Name::Breaking Dawn Part 1)
+- [ ] Breaking Dawn Part 1
 	[Rating:: None]
-- [ ] (Name::Grand Theft Hamlet)
+- [ ] Grand Theft Hamlet
 	[Rating:: None]
-- [ ] (Name::The Brutalist)
+- [ ] The Brutalist
 	[Rating:: None]
-- [ ] (Name::Mars Express)
+- [ ] Mars Express
 	[Rating:: None]
-- [ ] (Name::I'm Still Here)
+- [ ] I'm Still Here
 	[Rating:: None]
-- [ ] (Name::Hundreds of Beavers)
+- [ ] Hundreds of Beavers
 	[Rating:: None]
-- [ ] (Name::No Other Land)
+- [ ] No Other Land
 	[Rating::None]
 
 
 ## 2024
 
-- [x] (Name:: The Teacher’s Lounge  )
+- [x] The Teacher’s Lounge  
 	[Rating:: 10]
-- [x] (Name::  The Count of Monte Cristo  )
+- [x] The Count of Monte Cristo (2024) 
 	[Rating:: 8]
-- [x] (Name::  Christmas Carol (George C. Scott)  )
+- [x] Christmas Carol (George C. Scott) 
 	[Rating:: 8]
-- [x] (Name::  Kelly's heroes  )
+- [x] Kelly's heroes  
 	[Rating:: 8]
-- [x] (Name::  Runway Train  )
+- [x] Runway Train  
 	[Rating:: 8]
-- [x] (Name::  Oppenheimer  )
+- [x] Oppenheimer  
 	[Rating:: 8]
-- [x] (Name::  Sugarplummed  )
+- [x] Sugarplummed  
 	[Rating:: 8]
-- [x] (Name:: The Christmas Charade)
+- [x] The Christmas Charade
 	[Rating:: 6]
-- [x] (Name:: Love of the Irish)
+- [x] Love of the Irish
 	[Rating:: 4]
-- [x] (Name:: Private Princess)
+- [x] Private Princess
 	[Rating:: 0]
-- [x] (Name:: Holiday Touchdown: A Chiefs Love Story)
+- [x] Holiday Touchdown: A Chiefs Love Story
 	[Rating:: 4]
-- [x] (Name:: Jingle Bell Run)
+- [x] Jingle Bell Run
 	[Rating:: 4]
-- [x] (Name:: Holiday Road)
+- [x] Holiday Road
 	[Rating:: 6]
-- [x] (Name:: The Santa Class)
+- [x] The Santa Class
 	[Rating:: 4]
-- [x] (Name:: Heidelberg Holiday)
+- [x] Heidelberg Holiday
 	[Rating:: 4]
-- [x] (Name:: Santa Tell Me)
+- [x] Santa Tell Me
 	[Rating:: 4]
-- [x] (Name:: Three Wiser Men and a Boy)
+- [x] Three Wiser Men and a Boy
 	[Rating:: 8]
-- [x] (Name:: Alien)
+- [x] Alien
 	[Rating:: 10]
-- [x] (Name:: Beetlejuice)
+- [x] Beetlejuice
 	[Rating:: 8]
-- [x] (Name:: Dune 2)
+- [x] Dune 2
 	[Rating:: 8]
-- [x] (Name:: Being John Malkovich)
+- [x] Being John Malkovich
 	[Rating:: 8]
-- [x] (Name:: The Killing Fields)
+- [x] The Killing Fields
 	[Rating:: 10]
-- [x] (Name:: All is True)
+- [x] All is True
 	[Rating:: 6]
-- [x] (Name:: French Exit)
+- [x] French Exit
 	[Rating:: 4]
-- [x] (Name:: Never Look Away)
+- [x] Never Look Away
 	[Rating:: 10]
-- [x] (Name:: Talk to Me)
+- [x] Talk to Me
 	[Rating:: 8]
-- [x] (Name:: The Estate)
+- [x] The Estate
 	[Rating:: 6]
-- [x] (Name:: My Big Fat Greek Wedding 3)
+- [x] My Big Fat Greek Wedding 3
 	[Rating:: 0]
-- [x] (Name:: Bad Education)
+- [x] Bad Education
 	[Rating:: 8]
-- [x] (Name:: Dream Scenario)
+- [x] Dream Scenario
 	[Rating:: 8]
-- [x] (Name:: Run Lola Run)
+- [x] Run Lola Run
 	[Rating:: 8]
-- [x] (Name:: The Witches)
+- [x] The Witches
 	[Rating:: 4]
-- [x] (Name:: The Holdovers)
+- [x] The Holdovers
 	[Rating:: 8]
-- [x] (Name:: Babylon)
+- [x] Babylon
 	[Rating:: 6]
-- [x] (Name:: Vengeance)
+- [x] Vengeance
 	[Rating:: 6]
-- [x] (Name:: Poor Things)
+- [x] Poor Things
 	[Rating:: 8]
-- [x] (Name:: Rashomon)
+- [x] Rashomon
 	[Rating:: 6]
-- [x] (Name:: The Duke)
+- [x] The Duke
 	[Rating:: 8]
-- [x] (Name:: A Haunting in Venice)
+- [x] A Haunting in Venice
 	[Rating:: 6]
-- [x] (Name:: The Beekeeper)
+- [x] The Beekeeper
 	[Rating:: 4]
-- [x] (Name:: Doctor Zhivago)
+- [x] Doctor Zhivago
 	[Rating:: 8]
-- [x] (Name:: The King’s Man)
+- [x] The King’s Man
 	[Rating:: 4]
-- [x] (Name:: Cyrano)
+- [x] Cyrano
 	[Rating:: 8]
-- [x] (Name:: The Covenant)
+- [x] The Covenant
 	[Rating:: 6]
-- [x] (Name:: The Nest)
-	[Rating:: 2]
-- [x] (Name:: Love Never Dies)
-	[Rating:: 2]
-- [x] (Name:: She Came to Me)
+- [x] The Nest
+	[Rating:: 0]
+- [x] Love Never Dies
+	[Rating:: 0]
+- [x] She Came to Me
 	[Rating:: 6]
-- [x] (Name:: Phantom of the Opera)
+- [x] Phantom of the Opera
 	[Rating:: 8]
-- [x] (Name:: Alien Romulus)
+- [x] Alien Romulus
 	[Rating:: 8]
-- [x] (Name:: Barbie)
+- [x] Barbie
 	[Rating:: 8]
-- [x] (Name:: The Lodgers)
+- [x] The Lodgers
 	[Rating:: 4]
-- [x] (Name:: Anatomy of a Fall)
+- [x] Anatomy of a Fall
 	[Rating:: 10]
-- [x] (Name:: Twilight)
+- [x] Twilight
 	[Rating:: 6]
-- [x] (Name:: Romeo et Juliette)
+- [x] Romeo et Juliette
 	[Rating:: 2]
-- [x] (Name:: Priscilla)
+- [x] Priscilla
 	[Rating:: 8]
-- [x] (Name:: They shoot horses, don't they?)
+- [x] They shoot horses, don't they?
 	[Rating:: 10]
-- [x] (Name:: Black Swan)
+- [x] Black Swan
 	[Rating:: 8]
-- [x] (Name:: House of Gucci)
+- [x] House of Gucci
 	[Rating:: 4]
-- [x] (Name:: Night of the Hunter)
+- [x] Night of the Hunter
 	[Rating:: 10]
 
 
 ## 2025
 
-- [x] (Name:: M)
+- [x] M
 	[Rating:: 10]
-- [x] (Name:: My Argentine Heart)
+- [x] My Argentine Heart
 	[Rating:: 4]
-- [x] (Name:: Polar Opposites)
+- [x] Polar Opposites
 	[Rating:: 8]
-- [x] (Name:: Love of the Irish)
+- [x] Love of the Irish
 	[Rating:: 4]
-- [x] (Name:: King Arthur (2004))
+- [x] King Arthur (2004
 	[Rating:: 6]
-- [x] (Name:: The Perfect Setting)
+- [x] The Perfect Setting
 	[Rating:: 4]
-- [x] (Name:: Return to Office)
+- [x] Return to Office
 	[Rating:: 6]
-- [x] (Name:: War Games)
+- [x] War Games
 	[Rating:: 8]
-- [x] (Name:: The Innocents (1961))
+- [x] The Innocents (1961
 	[Rating:: 10]
-- [ ] (Name::Royal We)
+- [x] Royal We
+	[Rating::8]
+- [x] Furiosa: A Mad Max Saga
 	[Rating::8]
 
 

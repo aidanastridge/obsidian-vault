@@ -1,4 +1,8 @@
-#moc
+---
+tags:
+  - moc
+---
+
 
 1. Art
 	1. [[Art.canvas|Canvas]]
@@ -32,9 +36,10 @@
 		9. [[Guns of the Patriots]]
 		10. [[Peace Walker]]
 		11. [[Pure]]
-		12. [[Pulse]]
-		13. [[Lumines]]
-		14. [[Persona 3 Portable]]
+		12. [[Lumines]]
+		13. [[Persona 3 Portable]]
+		14. [[Dark Souls]]
+		15. [[Symphony of the Night]]
 	3. [[Albums]]
 		1. [[Tidal Memory Exo]]
 		2. [[Kids See Ghosts]]
@@ -73,7 +78,6 @@
 		5. [[The Fellowship of the Ring]]
 		6. [[The Return of the King]]
 
- 
 ----
 4. Excel
  
@@ -99,6 +103,11 @@
  
 ----
 11. Obsidian
+	1. [[For Plugin Developers]]
+	2. [[For Theme Designers]]
+	3. [[Note Generation Script]]
+	4. [[Transcription Script]]
+	5. [[Developer Documentation]]
  
 ----
 12. PowerBI
@@ -106,8 +115,10 @@
 ----
 13. Puzzles
 	1. [[Puzzles.canvas|Canvas]]
-	2. [[Jigsaws]]
-	3. [[Crosswords]]
+	2. [[999 Notes]]
+	3. [[Global/Puzzles/999 - Nine Hours, Nine Persons, Nine Doors/Connections.canvas|Connections]]
+	4. [[Jigsaws]]
+	5. [[Crosswords]]
  
 ----
 14. Python

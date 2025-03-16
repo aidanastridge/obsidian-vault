@@ -1,7 +1,9 @@
 ---
+
 kanban-plugin: board
 tags:
   - tasks
+
 ---
 
 ## Fiction
@@ -14,10 +16,6 @@ tags:
 - [ ] Aeneid
 
 
-## Technical
-
-
-
 ## Read
 
 
@@ -26,6 +24,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false]}
 ```
 %%

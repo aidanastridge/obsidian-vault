@@ -7,7 +7,7 @@ Links: [[Video Games]]
 (Genre::Racing)
 (Console::PSP)
 (Metacritic::88)
-
+(Publisher::Sony Interactive Entertainment)
 
 
 

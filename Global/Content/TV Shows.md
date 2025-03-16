@@ -1,5 +1,10 @@
+---
+tags:
+  - tv-shows
+---
+
 ```datacards
-TABLE Title, Creators, Genre, Years, IMDB
+TABLE without id Title, Creators, Network, Genre, Years, IMDB
 FROM #tv
 SORT Year desc
 ```

@@ -2,12 +2,12 @@ Tags: #games
 Links: [[Video Games]]
 
 (Title:: Metal Gear Solid)
-(Developer:: Kojima Productions)
+(Developer:: Konami)
 (Year::1998)
 (Genre::Action)
-(Console::PS1)
+(Console::PS)
 (Metacritic::94)
-
+(Publisher::Konami)
 
 
 

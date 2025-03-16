@@ -7,3 +7,4 @@ Links: [[Video Games]]
 (Genre::RPG)
 (Console::PSP)
 (Metacritic::89)
+(Publisher::Atlus)

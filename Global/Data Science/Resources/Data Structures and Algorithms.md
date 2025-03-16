@@ -1,4 +1,8 @@
-Tags: #sql 
+---
+tags:
+  - sql
+---
+
 
 - [[SQL.canvas|SQL]]
 - [[Python.canvas|Python]]

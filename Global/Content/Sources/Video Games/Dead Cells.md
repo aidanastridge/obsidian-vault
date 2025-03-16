@@ -7,6 +7,7 @@ Links: [[Video Games]]
 (Genre::Action)
 (Console::Mac)
 (Metacritic::89)
+(Publisher::Motion Twin/Evil Empire)
 
 
 

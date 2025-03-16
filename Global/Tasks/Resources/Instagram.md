@@ -8,7 +8,7 @@ tags:
 ## 
 
 
-[[Tasks.canvas|Tasks]]
+
 
 
 %% kanban:settings

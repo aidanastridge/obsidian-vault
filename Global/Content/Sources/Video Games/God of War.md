@@ -7,6 +7,7 @@ Links: [[Video Games]]
 (Genre::Action)
 (Console::PS2)
 (Metacritic::94)
+(Publisher::Sony Interactive Entertainment )
 
 
 

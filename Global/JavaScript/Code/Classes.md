@@ -1,4 +1,9 @@
-Tags: #javascript 
+---
+tags: javascript
+---
+
+Links: [[Javascript.canvas|Javascript]]
+
 ```javascript
 class Dog {
   constructor(name) {

@@ -1,4 +1,8 @@
-Tags: #javascript 
+---
+tags:
+  - javascript
+---
+Links: [[Javascript.canvas|Javascript]]
 ```javascript
 function myFunction() {
   var pizzaName = "Volvo";

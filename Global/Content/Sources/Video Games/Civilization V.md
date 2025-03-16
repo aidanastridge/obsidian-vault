@@ -7,6 +7,7 @@ Links: [[Video Games]]
 (Genre::Strategy)
 (Console::Mac)
 (Metacritic::90)
+(Publisher::2K)
 
 
 

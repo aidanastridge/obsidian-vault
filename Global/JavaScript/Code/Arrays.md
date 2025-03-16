@@ -1,4 +1,8 @@
-Tags: #javascript
+---
+tags: javascript
+---
+Links: [[Javascript.canvas|Javascript]]
+
 ```javascript
 const numbers = [1, 2, 3, 4];
 numbers.length // 4
