@@ -1,4 +1,6 @@
-Tags: #games
+---
+tags: games
+---
 Links: [[Video Games]]
 
 (Title::Persona 3 Portable)

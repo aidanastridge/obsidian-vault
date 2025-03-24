@@ -1,4 +1,6 @@
-Tags: #tv
+---
+tags: tv
+---
 Links: [[TV Shows]]
 
 (Title:: Curb Your Enthusiasm)

@@ -1,4 +1,7 @@
-Tags: #movies 
+---
+tags: movies
+---
+
 Links: [[Movies]]
 
 (Title:: Alien)
@@ -6,6 +9,7 @@ Links: [[Movies]]
 (Year::1979)
 (Genre::Thriller)
 (IMDB::8.5)
+
 
 
 

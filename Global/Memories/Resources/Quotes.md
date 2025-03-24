@@ -1,4 +1,7 @@
-Tags: #hobbies 
+---
+tags:
+  - quotes
+---
 
 > "**Beware of he who would deny you access to information, for in his heart he dreams himself your master.**" – **Commissioner Pravin Lal**, U.N. Declaration of Rights, Sid Meier's Alpha Centauri
 

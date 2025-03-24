@@ -1,4 +1,6 @@
-Tags: #movies 
+---
+tags: movies
+---
 Links: [[Movies]]
 
 (Title:: Mad Max: Fury Road)

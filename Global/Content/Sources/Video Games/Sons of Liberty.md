@@ -1,4 +1,6 @@
-Tags: #games
+---
+tags: games
+---
 Links: [[Video Games]]
 
 (Title:: Metal Gear Solid 2: Sons of Liberty)

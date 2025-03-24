@@ -1,4 +1,6 @@
-Tags: #books
+---
+tags: books
+---
 Links: [[Books]]
 
 (Title:: Lord of the Rings: The Return of the King)

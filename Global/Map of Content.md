@@ -86,11 +86,24 @@ tags:
  
 ----
 6. Javascript
+	1. [[Arrays]]
+	2. [[Async]]
+	3. [[Classes]]
+	4. [[Conditionals]]
+	5. [[Errors]]
+	6. [[Functions]]
+	7. [[Iterators]]
+	8. [[Objects]]
+	9. [[Promises]]
+	10. [[Requests]]
+	11. [[Scope]]
+	
  
 ----
 7. Logs
 	1. [[Shortcut Log]]
 	2. [[Vocode Log]]
+	3. [[Walking Log]]
  
 ----
 8. Lua

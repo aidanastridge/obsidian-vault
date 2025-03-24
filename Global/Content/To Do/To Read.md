@@ -9,11 +9,13 @@ tags:
 ## Fiction
 
 - [ ] The Count of Monte Cristo
-- [ ] A Tale of Two Cities
 - [ ] The Iliad
 - [ ] The Odyssey
-- [ ] Paradise Lost
-- [ ] Aeneid
+- [ ] Hangsaman
+- [ ] The Birds Nest
+- [ ] The Haunting of Hill House
+- [ ] We Have Always Lived In Castle
+- [ ] The Lottery and Other Short Stories
 
 
 ## Read

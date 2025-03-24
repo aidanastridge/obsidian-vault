@@ -1,4 +1,7 @@
-Tags: #css 
+---
+tags:
+  - css
+---
 
 This note collects resources and guides for beginner and expert plugin developers for [Obsidian](https://publish.obsidian.md/hub/05+-+Concepts/Obsidian).
 

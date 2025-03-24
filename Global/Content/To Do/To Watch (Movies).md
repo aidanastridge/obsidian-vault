@@ -36,6 +36,10 @@ tags:
 	[Rating:: None]
 - [ ] No Other Land
 	[Rating::None]
+- [ ] Black Bag
+	[Rating::None]
+- [ ] Suspiria
+	[Rating::None]
 
 
 ## 2024

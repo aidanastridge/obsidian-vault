@@ -1,4 +1,6 @@
-Tags: #books
+---
+tags: books
+---
 Links: [[Books]]
 
 (Title:: The Spy Who Came in from the Cold)

@@ -1,3 +1,6 @@
-#math 
+---
+tags:
+  - math
+---
 
 [[Math.canvas|Math]]

@@ -1,7 +1,4 @@
----
-tags:
-  - albums
----
+
 ```datacards
 TABLE without id Title, Artist, Genre, Year, RYM
 FROM #albums 

@@ -1,7 +1,9 @@
 ---
+
 kanban-plugin: board
 tags:
   - tasks
+
 ---
 
 ## To do
@@ -13,8 +15,6 @@ tags:
 - [ ] SMT IV
 - [ ] SMT Strange Journey
 - [ ] SMT IV: Apocalypse
-- [ ] Castlevania: Dawn of Shadow
-- [ ] Castlevania: Portrait of Ruin
 - [ ] Castlevania: Order of Ecclesia
 
 
@@ -22,6 +22,7 @@ tags:
 
 - [x] Metal Gear Solid
 - [x] Into the Breach
+- [x] Castlevania: Dawn of Shadow
 
 
 

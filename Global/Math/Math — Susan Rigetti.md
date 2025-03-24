@@ -1,3 +1,8 @@
+---
+tags:
+  - math
+---
+
 ## So You Want to Study Mathematics…  
 
 ### **Introduction**

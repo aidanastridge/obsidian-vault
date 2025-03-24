@@ -1,4 +1,6 @@
-Tags: #books
+---
+tags: books
+---
 Links: [[Books]]
 
 (Title:: A Canticle for Leibowitz)

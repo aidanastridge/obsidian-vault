@@ -1,4 +1,7 @@
-#math 
+---
+tags:
+  - math
+---
 
 A limit describes the behaviour of a function as its input approaches $x$.
 
@@ -43,16 +46,6 @@ ${\frac{\lim_{ n \to x}a}{\lim_{ n \to x}b}}$
 Piecewise
 $\lim_{ n \to x }(a+b)$
 $\lim_{ n \to x^- }a + \lim_{ n \to x^- }b = \lim_{ n \to x^+ }a + \lim_{ n \to x^+}b$
-
-
-```tikz
-
-```
-```
-
-```
-
-
 
 
 

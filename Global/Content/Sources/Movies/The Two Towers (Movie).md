@@ -1,4 +1,6 @@
-Tags: #movies 
+---
+tags: movies
+---
 Links: [[Movies]]
 
 (Title:: The Lord of the Rings: The Two Towers)
